@@ -2,6 +2,8 @@
 
 This certificate was my first entry into the world of data analytics. Thanks to Google and Coursera, i was able to learn new concepts and skills that can be very helpful and critical in the field of geoscience, as well as any other Data centric subjects.
 
+**The work that i have done is very simple so be mindful of my beginner level xD**
+
 ## Capstone general infos ..
 
 At the end of the certificate, i was tasked to choose one of two case studies to apply all what i have learned during the course : 
